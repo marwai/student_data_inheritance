@@ -1,8 +1,8 @@
-Create 4 new Separate projects in pycharm to push to 4 separate Repositories to github, called:
-**1 - student_data_inheritance**
-2 - student_data_encapsulation
-3 - student_data_polymorphism
-4 - student_data_abstraction
+Create 4 new Separate projects in pycharm to push to 4 separate Repositories to github, called:   
+**1 - student_data_inheritance**    
+2 - student_data_encapsulation     
+3 - student_data_polymorphism   
+4 - student_data_abstraction 
 
 ```Create two python files and one READEME.md in each Repository
 Student_data.py file as a parent class and DevOps_student.py as a child class
@@ -14,7 +14,7 @@ NOTE: ONLY ONE OOP PILLAR'S FUNCTIONALITY NEEDS TO BE ACHIEVED IN EACH REPO AS P
 * Create a power point presentation to present above exercise and time box it for 5 minutes total.
 - Your presentation must include:
     - Your elevator's pitch of up to 1 minute (minimum 45-sec)
-    - Code walk through in pycharm and git hub Repositories
+   - Code walk through in pycharm and git hub Repositories
     - Code Demo by running your code successfully in pycharm
 
 Assessment criteria:
