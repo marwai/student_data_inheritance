@@ -8,15 +8,19 @@ class Devops(Student): # The class inherits all the characteristics from student
         self.skills = skills # unique to devops only
 
 
-    def new_skill(self): # method is unique to Person
-        self.details()
-        print("You have learned " + self.skills, "at Sparta global")
 
-# instance of method has been named
-Marcus = Devops("Marcus", "23", "Aerospace Engineering", "SQL\n") #\n creates a new line
+
+
 #Recalls the instance of the class
-Marcus.new_skill()
 
+# instance of method has been named from Devops
+b =  Devops("bob", "25", "Computer Science", "SQL, Python and AWS\n")
+# instance of Student
+a = Student("bob", "25", "Computer Science")
 
-bob =  Devops("bob", "25", "Computer Science", "SQL, Python and AWS\n")
-bob.new_skill()
+#Both produce the same output due to inheritance
+a.details()
+a.graduate()
+print("___")
+b.details()
+b.graduate()

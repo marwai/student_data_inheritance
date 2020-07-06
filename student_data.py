@@ -12,3 +12,6 @@ class Student:
         print("Name: " + self.name)
         print("Age: " + self.__age)
         print("University course: " + self.course)
+
+    def graduate(self):
+        print("I graduated from university recently")
